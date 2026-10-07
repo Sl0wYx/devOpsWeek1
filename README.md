@@ -1,4 +1,2 @@
-# devopsWeek1
-# devopsWeek1
-# devopsWeek1
-# devopsWeek1
+# devOpsWeek1
+# devOpsWeek1
